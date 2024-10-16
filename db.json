@@ -1,0 +1,93 @@
+{
+  "products": [
+    {
+      "name": "Ao khac thoi trang nam 3 ",
+      "imageUrl": "http://example.com/product1.jpg",
+      "category": "category1",
+      "price": "1",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 29.99,
+      "imageUrl": "http://example.com/product2.jpg",
+      "available": true,
+      "description": "Description for product 2"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 39.99,
+      "imageUrl": "http://example.com/product3.jpg",
+      "available": false,
+      "description": "Description for product 3"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "price": 49.99,
+      "imageUrl": "http://example.com/product4.jpg",
+      "available": true,
+      "description": "Description for product 4"
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "price": 59.99,
+      "imageUrl": "http://example.com/product5.jpg",
+      "available": false,
+      "description": "Description for product 5"
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "price": 69.99,
+      "imageUrl": "http://example.com/product6.jpg",
+      "available": true,
+      "description": "Description for product 6"
+    },
+    {
+      "id": 7,
+      "name": "Product 7",
+      "price": 79.99,
+      "imageUrl": "http://example.com/product7.jpg",
+      "pictureUrl": "http://example.com/product7.jpg",
+      "description": "Description for product 7",
+      "available": true
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "price": 89.99,
+      "imageUrl": "http://example.com/product8.jpg",
+      "pictureUrl": "http://example.com/product8.jpg",
+      "description": "Description for product 8",
+      "available": false
+    },
+    {
+      "id": 9,
+      "name": "Product 9003",
+      "price": 99.99,
+      "imageUrl": "http://example.com/product9.jpg",
+      "available": true,
+      "description": "Description for product 9 33",
+      "category": "Ao khoac"
+    },
+    {
+      "name": "New Product ",
+      "imageUrl": "https://picsum.photos/200/300",
+      "price": 123,
+      "id": 10,
+      "category": "ao khoac nu"
+    },
+    {
+      "name": "Ao thoi trang nam",
+      "imageUrl": "https://picsum.photos/200/300",
+      "price": 333,
+      "id": 11
+    }
+  ],
+  "users": [
+  ]
+}
